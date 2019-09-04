@@ -8,5 +8,5 @@ Diamonds are rare as they are formed under high pressure deep under the earth's 
 other gemstones. Even though they are very costly people are very crazy to buy them. 
 In order to know the reason behind why diamonds are costlier and what factors affect the diamond prices led me to choose
 the Diamond dataset. The diamond data set contains information about more than 50k thousand diamonds. 
-As a beginner in the Data Science eld working with such a good number of samples will lead me to come across many challenges 
+As a beginner in the Data Science feild working with such a good number of samples will lead me to come across many challenges 
 and enhance my knowledge.
